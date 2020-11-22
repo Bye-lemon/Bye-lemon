@@ -2,6 +2,8 @@
 
 💻 I'm currently a master student in Dalian University of Technology.
 
+[![Bye-lemon's github stats](https://github-readme-stats.vercel.app/api?username=Bye-lemon)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Bye-lemon/Bye-lemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
