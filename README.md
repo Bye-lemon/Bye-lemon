@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+am+Li+Yingping%2C;a+rookie+developer+;focusing+on+Web%2C+AI+and+DevOps.)](https://git.io/typing-svg)
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+am+Li+Yingping%2C;a+rookie+developer+;focusing+on+Web%2C+AI+and+DevOps." alt="Typing SVG" /></a></p>
 
 <h1 align="center">Hi 👋, I'm Lemon - Li Yingping</h1>
 <h3 align="center">A rookie developer focusing on <em>Web, AI and DevOps</em></h3>
