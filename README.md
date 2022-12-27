@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+am+Li+Yingping%2C;a+rookie+developer+;focusing+on+Web%2C+AI+and+DevOps." alt="Typing SVG" /></a></p>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=970&lines=I+am+Li+Yingping%2C;a+rookie+developer+focusing+on+Web%2C+AI+and+DevOps.;Happy+hacking!" alt="Typing SVG" /></a></p>
 
 <h1 align="center">Hi 👋, I'm Lemon - Li Yingping</h1>
 <h3 align="center">A rookie developer focusing on <em>Web, AI and DevOps</em></h3>
@@ -17,33 +17,30 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-  <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/python.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/anaconda.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/opencv.svg" alt="opencv" width="40" height="40"/> </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/pytorch.svg" alt="pytorch" width="40" height="40"/> </a> 
+  <a href="https://onnx.ai/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/onnx.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/linux.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/ubuntu.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://manjaro.org/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/manjaro.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/gnubash.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/vim.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/tmux.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/docker.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://www.travis-ci.org/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/travisci.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://sentry.io/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/sentry.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/markdown.svg" alt="hexo" width="40" height="40"/> </a> 
+  <a href="https://hexo.io/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/hexo.svg" alt="hexo" width="40" height="40"/> </a>   
+  <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/jetbrains.svg" alt="hexo" width="40" height="40"/> </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/spring.svg" alt="spring" width="40" height="40"/> </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/springboot.svg" alt="springboot" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/flask.svg" alt="flask" width="40" height="40"/> </a> 
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/fastapi.svg" alt="flask" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
 </p>
-
 <h3 align="left">Github Stats:</h3>
 
 [![Bye-lemon's github stats](https://github-readme-stats.vercel.app/api?username=Bye-lemon)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**Bye-lemon/Bye-lemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
