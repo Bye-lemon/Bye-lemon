@@ -23,26 +23,25 @@
 <p align="left"> 
 <h3 align="left">Languages and Tools:</h3>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/python.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/anaconda.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/anaconda.svg" alt="anaconda" width="40" height="40"/> </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/opencv.svg" alt="opencv" width="40" height="40"/> </a> 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/pytorch.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://onnx.ai/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/onnx.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://onnx.ai/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/onnx.svg" alt="onnx" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/linux.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/ubuntu.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://manjaro.org/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/manjaro.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/gnubash.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/vim.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/tmux.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/ubuntu.svg" alt="ubuntu" width="40" height="40"/> </a> 
+  <a href="https://manjaro.org/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/manjaro.svg" alt="manjaro" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/gnubash.svg" alt="bash" width="40" height="40"/> </a>
+  <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/vim.svg" alt="vim" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/docker.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://www.travis-ci.org/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/travisci.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://sentry.io/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/sentry.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/markdown.svg" alt="hexo" width="40" height="40"/> </a> 
+  <a href="https://www.travis-ci.org/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/travisci.svg" alt="travisci" width="40" height="40"/> </a>
+  <a href="https://sentry.io/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/sentry.svg" alt="sentry" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/markdown.svg" alt="markdown" width="40" height="40"/> </a> 
   <a href="https://hexo.io/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/hexo.svg" alt="hexo" width="40" height="40"/> </a>   
   <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/jetbrains.svg" alt="hexo" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/spring.svg" alt="spring" width="40" height="40"/> </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/springboot.svg" alt="springboot" width="40" height="40"/> </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/flask.svg" alt="flask" width="40" height="40"/> </a> 
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/fastapi.svg" alt="flask" width="40" height="40"/> </a> 
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/fastapi.svg" alt="fastapi" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
 </p>
 
