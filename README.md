@@ -15,8 +15,13 @@
 
 - Feng, L., Yuan, Q., Liu, Y., Huang, Q., Liu, S., Li, Y. (2020). A Discriminative STGCN for Skeleton Oriented Action Recognition. In: Yang, H., Pasupa, K., Leung, A.CS., Kwok, J.T., Chan, J.H., King, I. (eds) Neural Information Processing. ICONIP 2020. Communications in Computer and Information Science, vol 1333. Springer, Cham. 
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="right"> 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Bye-lemon&show_icons=true&bg_color=00000000" />
+</a>
+</p>
 <p align="left"> 
+<h3 align="left">Languages and Tools:</h3>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/python.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/anaconda.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/opencv.svg" alt="opencv" width="40" height="40"/> </a> 
@@ -40,7 +45,7 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/fastapi.svg" alt="flask" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
 </p>
-<h3 align="left">Github Stats:</h3>
 
-[![Bye-lemon's github stats](https://github-readme-stats.vercel.app/api?username=Bye-lemon)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
